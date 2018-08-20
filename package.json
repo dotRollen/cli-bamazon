@@ -1,0 +1,24 @@
+{
+  "name": "shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dotRollen/shopify.git"
+  },
+  "author": "edwardnnz@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dotRollen/shopify/issues"
+  },
+  "homepage": "https://github.com/dotRollen/shopify#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql2": "^1.6.1",
+    "table": "^4.0.3"
+  }
+}
